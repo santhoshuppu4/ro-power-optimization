@@ -7,4 +7,5 @@ models/
 .env
 *.csv
 *.parquet
+*.log
 .ipynb_checkpoints/
